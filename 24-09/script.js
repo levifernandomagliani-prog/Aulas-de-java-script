@@ -82,7 +82,4 @@ for (let index = 0; index < notas.length; index++) {
 
 let temp = [32, 40, 7, 0, 90, 15, 12]
 
-for (let index =)
-
-
-
+for (let index =);
